@@ -5,10 +5,11 @@
 
 <h2 style="color:#02AF9A">Easy</h2>
 <ul>
-    <li><a href="https://github.com/preview-test/leetcode/tree/main/Easy">Two Sum</a></li>
-    <li><a href="https://github.com/preview-test/leetcode/tree/main/Easy">Reverse Integer</a></li>
-    <li><a href="https://github.com/preview-test/leetcode/tree/main/Easy">Palindrome Number</a></li>
-    <li><a href="https://github.com/preview-test/leetcode/tree/main/Easy">Roman to Integer</a></li>
+    <li>[Two Sum](https://github.com/preview-test/leetcode/blob/main/Easy/Two%20Sum.md)</li>
+    <li>[Reverse Integer](https://github.com/preview-test/leetcode/blob/main/Easy/Reverse%20Integer.md)</li>
+    <li>[Palindrome Number](https://github.com/preview-test/leetcode/blob/main/Easy/Palindrome%20Number.md)</li>
+    <li>[Roman to Integer](https://github.com/preview-test/leetcode/blob/main/Easy/Roman%20to%20Integer.md)</li>
+    <li>[Longest Common Prefix](https://github.com/preview-test/leetcode/blob/main/Easy/Longest%20Common%20Prefix.md)</li>
 </ul>
 
 <h2 style="color:#FEB800">Medium</h2>
