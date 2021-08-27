@@ -7,7 +7,7 @@
 ### 풀이
 
 ```js
-const palindromeNumber = (x) => {
+const isPalindrome = (x) => {
   // 음수이면, false 반환
   if (x < 0) return false;
 

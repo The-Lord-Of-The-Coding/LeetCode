@@ -9,7 +9,7 @@
 ### 풀이
 
 ```js
-const romanToInteger = (s) => {
+const romanToInt = (s) => {
   const Romans = {
     I: 1,
     V: 5,

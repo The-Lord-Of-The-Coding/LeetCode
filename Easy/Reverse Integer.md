@@ -9,7 +9,7 @@
 ### 풀이
 
 ```js
-const reverseInteger = (x) => {
+const reverse = (x) => {
   // 32 비트 정수 최대 값 정의
   const LIMIT = Math.pow(2, 31) - 1;
 
