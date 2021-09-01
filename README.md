@@ -4,7 +4,7 @@
 - 난이도 순서대로 진행
 
 <details>
-<summary><span style="color:#02AF9A; font-size:24px;">Easy</span></summary>
+<summary>Easy</summary>
 
 - [1. Two Sum](https://github.com/The-Lord-Of-The-Coding/LeetCode/blob/main/Easy/Two%20Sum.md)
 
@@ -37,13 +37,13 @@
 <hr />
 
 <details>
-<summary><span style="color:#FEB800; font-size:24px;">Medium</span>Medium</summary>
+<summary>Medium</summary>
 
 </details>
 
 <hr />
 
 <details>
-<summary><span style="color:#FF2C55; font-size:24px;">Hard</span>Hard</summary>
+<summary>Hard</summary>
 
 </details>
